@@ -1,5 +1,5 @@
 # General Info
-This app is build with the principles of MVVM applied, using Dagger Hilt for Dependency Injection and Retrofit for REST API calls and Room for Database.
+This app is build with the principles of MVVM applied, using Dagger Hilt for Dependency Injection,  Retrofit for REST API calls, Room for Database, and Databinding for the XML Layout.
 
 # Folder Structure
 
