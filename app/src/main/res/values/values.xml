@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="animationDuration">200</integer>
+    <integer name="xDelta">50</integer>
+    <integer name="xDeltaMinus">-50</integer>
+    <dimen name="selectedCardElevation">10dp</dimen>
+
+</resources>

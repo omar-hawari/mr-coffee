@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/drawable/checkbox.xml" value="0.1" />
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/drawable/right_arrow.xml" value="0.2765" />
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/layout/activity_main.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/layout/fragment_blank.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/layout/fragment_checkout.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/layout/fragment_extra_picker.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/layout/fragment_size_picker.xml" value="0.1" />
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/layout/fragment_type_picker.xml" value="0.1" />
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/layout/rv_extra.xml" value="0.10054347826086957" />
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/layout/rv_size.xml" value="0.10054347826086957" />
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/layout/rv_subselection.xml" value="0.12213740458015267" />
+        <entry key="..\:/Users/engom/AndroidStudioProjects/MrCoffee/app/src/main/res/layout/rv_type.xml" value="0.18072916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
